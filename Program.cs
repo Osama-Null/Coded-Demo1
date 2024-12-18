@@ -50,4 +50,3 @@ else if (avg < 50 && avg <= 0)
 
 else Console.WriteLine("Out of range or Invalid input");
 Console.WriteLine("______________________");
-
